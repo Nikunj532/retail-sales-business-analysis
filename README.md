@@ -29,23 +29,24 @@ The dataset contains retail transaction records including:
 - Store_ID – Store location identifier  
 
 ## Project Structure
+
+```
 retail-sales-business-analysis
 │
 ├── case-study
-│ └── VOOT Business Analytics Case Study.pdf
+│   └── VOOT Business Analytics Case Study.pdf
 │
 ├── data
-│ └── Customer Analysis_Raw Data.csv
+│   └── Customer Analysis_Raw Data.csv
 │
 ├── notebooks
-│ └── retail_sales_analysis.ipynb
+│   └── retail_sales_analysis.ipynb
 │
 ├── presentation
-│ └── Retail-Sales-Business-Analysis.pptx
+│   └── Retail-Sales-Business-Analysis.pptx
 │
 └── README.md
-
-
+```
 ## Analysis Approach
 
 The analysis was conducted using the following steps:
