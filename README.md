@@ -16,6 +16,10 @@ The goal of this analysis is to answer four strategic business questions using t
 3. Identify a **store that could be closed with minimal financial impact**.
 4. Evaluate the **impact of discontinuing Product C** assuming customers switch to Product A.
 
+## Tools Used
+
+Python • Pandas • Seaborn • Matplotlib • Jupyter Notebook
+
 ## Dataset
 The dataset contains retail transaction records including:
 
@@ -71,12 +75,6 @@ The analysis was conducted using the following steps:
    - Revenue by Store
    - Revenue by Product
    - Monthly Revenue Trend
-
-## Sample Visualization
-
-Revenue by Store
-
-![Revenue by Store](images/store_revenue_chart.png)
 
 ## Key Insights
 
