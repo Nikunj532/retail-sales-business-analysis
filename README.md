@@ -29,37 +29,6 @@ The dataset contains retail transaction records including:
 - Store_ID – Store location identifier  
 
 ## Project Structure
-# Retail Sales Analytics Case Study (Python)
-
-## Overview
-This project analyzes retail transaction data to identify opportunities to improve profit margins while maintaining revenue.
-
-The analysis evaluates customer purchasing behavior, store performance, marketing campaign impact, and product strategy decisions to support data-driven business recommendations.
-
-## Business Objective
-Wayne Inc., a retail company with stores in New York and Los Angeles, wants to improve **profit margins without reducing revenue**.
-
-The goal of this analysis is to answer four strategic business questions using transaction data.
-
-## Business Questions
-1. Identify the **Top 5 customers purchasing across multiple stores** for a targeted 10% discount campaign.
-2. Evaluate the **impact of a TV marketing campaign** run from 1 Sep to 30 Sep 2012.
-3. Identify a **store that could be closed with minimal financial impact**.
-4. Evaluate the **impact of discontinuing Product C** assuming customers switch to Product A.
-
-## Dataset
-The dataset contains retail transaction records including:
-
-- Customer_ID – Unique customer identifier  
-- Transaction_date – Date of purchase  
-- Order_ID – Unique order identifier  
-- Revenue – Revenue generated from the order  
-- Margin – Profit generated from the order  
-- Product_ID – Product purchased  
-- Units – Number of units purchased  
-- Store_ID – Store location identifier  
-
-## Project Structure
 retail-sales-business-analysis
 │
 ├── case-study
